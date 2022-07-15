@@ -35,8 +35,6 @@
                   }}</a>
                 </p>
                 <p [innerHTML]="data.description.body"></p>
-                Tags:
-                <p id="tags" *ngFor="let tag of data.tags">{{ tag.name }}</p>
                 <img
                   *ngFor="let img of data.description.images; let i = index"
                   src="{{ data.description.images[i].url }}"
