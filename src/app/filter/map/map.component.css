@@ -39,10 +39,16 @@
 @media only screen and (min-width: 1920px) {
   .map {
     width: 715px;
+    height: 689px;
   }
 }
 @media only screen and (min-width: 2560px) {
   .map {
     width: 800px;
+  }
+ @media only screen and (min-height: 1440px) {
+  .map {
+    height: 1200px;
+    }
   }
 }

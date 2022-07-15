@@ -6,7 +6,6 @@ img {
   padding-top: 0.1rem;
   line-height: 0.5rem;
 }
-
 .distance-in-list {
   text-align: right;
   font-size: 1.2rem;
@@ -26,7 +25,7 @@ table {
 }
 
 #customList {
-  height: 570px;
+  height: 570px; 
   /* width: auto; */
   /* overflow: auto; */
   overflow-x: hidden;
@@ -58,15 +57,36 @@ table {
 @media only screen and (min-width: 1536px) {
   .list {
     width: 420px;
+    margin-right: 10rem;
   }
 }
 @media only screen and (min-width: 1920px) {
-  .list {
-    width: 500px;
+  #customList {
+    height: 689px;
+    width: 520px;
+    font-size: 2rem;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+}
+
+@media only screen and (min-height: 1440px) {
+  #customList {
+    height: 1200px;
+  }
+  #name {
+    font-size: 2.5rem;
+  }
+  .distance-in-list {
+    font-size: 2.5rem;
   }
 }
 @media only screen and (min-width: 2560px) {
+  #customList {
+    width: 625px;
+    
+    }
   .list {
-    width: 535px;
+    margin-right: 20rem;
   }
 }

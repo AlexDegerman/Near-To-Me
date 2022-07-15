@@ -104,8 +104,10 @@ a {
 }
 
 @media only screen and (min-width: 769px) {
-    .main-container {
-        background-image: url(./../../assets/helsinki.jpg);
+    .bg-image {
+        background-image: url(./../../assets/helsinki.jpg); 
+        image-rendering: auto;
+        background-size: cover;
     }
     .list {
         justify-self: end;
