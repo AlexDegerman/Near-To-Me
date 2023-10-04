@@ -12,6 +12,7 @@ import * as L from 'leaflet';
 import { ApiService } from '../../api.service';
 import { PlaceDetailComponent } from '../../place-detail/place-detail.component';
 import 'leaflet.markercluster';
+import { jsonService } from 'src/app/json.service';
 
 const iconRetinaUrl = 'assets/marker-icon-2x.png';
 const iconUrl = 'assets/marker-icon.png';
@@ -43,7 +44,7 @@ export class MapComponent implements AfterViewInit, OnInit {
   actsMarkers = new L.LayerGroup();
 
   constructor(
-    private api: ApiService
+    private api: ApiService ,private json: jsonService
   ) {}
 
   private initMap(): void {
@@ -133,10 +134,12 @@ export class MapComponent implements AfterViewInit, OnInit {
     });
   }
 
+  // API no longer available, switching to JSON
   makeMarkersBasedOnFilter(filter: string, map: L.Map): void {
     let clusters = new L.MarkerClusterGroup();
     if (filter === 'places') {
-      this.api.getAllPlaces().subscribe((res: any) => {
+      this.json.getPlaces().subscribe((res: any) =>  {
+     // this.api.getAllPlaces().subscribe((res: any) => {
         const markerCluster = new L.MarkerClusterGroup();
         for (const c of res.data) {
           const lon = c.location.lon;
@@ -149,7 +152,8 @@ export class MapComponent implements AfterViewInit, OnInit {
         }
       });
     } else if (filter === 'activities') {
-      this.api.getAllActivities().subscribe((res: any) => {
+      this.json.getActivities().subscribe((res: any) =>  {
+      // this.api.getAllActivities().subscribe((res: any) => {
         const markerCluster = new L.MarkerClusterGroup();
 
         for (const c of res.data) {
@@ -163,7 +167,8 @@ export class MapComponent implements AfterViewInit, OnInit {
         }
       });
     } else {
-      this.api.getAllEvents().subscribe((res: any) => {
+      this.json.getEvents().subscribe((res: any) =>  {
+      //this.api.getAllEvents().subscribe((res: any) => {
         const markerCluster = new L.MarkerClusterGroup();
 
         for (const c of res.data) {
