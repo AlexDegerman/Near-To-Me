@@ -9,9 +9,9 @@ import { Events } from '../app/events';
   providedIn: 'root',
 })
 export class jsonService {
-  place: string = '../assets/places.json';
-  activity: string = '../assets/activities.json';
-  event: string = '../assets/events.json';
+  place: string = './assets/places.json';
+  activity: string = './assets/activities.json';
+  event: string = './assets/events.json';
   constructor(private http: HttpClient) {}
 
   getData(filter: any): Observable<any> {
