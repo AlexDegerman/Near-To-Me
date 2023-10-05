@@ -1,0 +1,1109 @@
+[{
+        "id": "3408",
+        "name": {
+            "fi": "Luckiefun's Freda",
+            "en": "Luckiefun's Freda",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "http://www.luckiefun.com",
+        "modified_at": "2021-11-12T11:06:02.000Z",
+        "location": {
+            "lat": 60.16665267944336,
+            "lon": 24.933958053588867,
+            "address": {
+                "street_address": "Fredrikinkatu 49",
+                "postal_code": "00100",
+                "locality": "Helsinki",
+                "neighbourhood": "Kamppi"
+            }
+        },
+        "description": {
+            "intro": "Luckiefun's on suosittu sushibuffet-ravintola jossa myös lämpimiä aasialaistyyppisisä ruokia. Luckiefun's ravintoloita on myös mm. Kaivokadulla, Sörnäisissä, Triplassa ja REDIssä.",
+            "body": "Luckiefun's on suosittu sushibuffet-ravintola jossa myös lämpimiä aasialaistyyppisisä ruokia. Luckiefun's ravintoloita on myös mm. Kaivokadulla, Sörnäisissä, Triplassa ja REDIssä.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:577",
+                "name": "restaurants"
+            },
+            {
+                "id": "sub:80",
+                "name": "Asian"
+            },
+            {
+                "id": "sub:192",
+                "name": "Sushi"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:3408/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "4155",
+        "name": {
+            "fi": "Lucy in the Sky",
+            "en": "Lucy in the Sky",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.lucyinthesky.fi/",
+        "modified_at": "2021-11-12T11:06:05.000Z",
+        "location": {
+            "lat": 60.17530822753906,
+            "lon": 24.831146240234375,
+            "address": {
+                "street_address": "Keilaniementie 1",
+                "postal_code": "02150",
+                "locality": "Espoo",
+                "neighbourhood": "Otaniemi"
+            }
+        },
+        "description": {
+            "intro": "Lucy in the Sky on kattoravintola ja -baari Accountor Towerin katolla Espoon Keilaniemessä, joka tarjoilee modernia bistroruokaa uniikilla sijainnilla yli 80 metrin korkeudessa. \r\n\r\nLasiseinät tarjoavat näkymät neljään eri ilmansuuntaan. Ikkunoista aukeava maisema vaihtelee Nuuksion kansallispuistosta Helsingin urbaaniin keskustaan ja ikoniseen suomalaiseen saaristoon. \r\n\r\nLucy tarjoilee lounasta ja illallista, ja lisäksi tilassa on mahdollista järjestää yksityistilaisuuksia",
+            "body": "Lucy in the Sky on kattoravintola ja -baari Accountor Towerin katolla Espoon Keilaniemessä, joka tarjoilee modernia bistroruokaa uniikilla sijainnilla yli 80 metrin korkeudessa. \r\n\r\nLasiseinät tarjoavat näkymät neljään eri ilmansuuntaan. Ikkunoista aukeava maisema vaihtelee Nuuksion kansallispuistosta Helsingin urbaaniin keskustaan ja ikoniseen suomalaiseen saaristoon. \r\n\r\nLucy tarjoilee lounasta ja illallista, ja lisäksi tilassa on mahdollista järjestää yksityistilaisuuksia",
+            "images": [{
+                    "url": "https://tprimages.blob.core.windows.net/public/4155/61cba5a0-b4c1-4501-bded-378ff76031b1.jpg",
+                    "copyright_holder": "Soupster Family / Nadia Heiniö",
+                    "license_type": {
+                        "id": 4,
+                        "name": "Copyright 1"
+                    },
+                    "media_id": "61cba5a0-b4c1-4501-bded-378ff76031b1"
+                },
+                {
+                    "url": "https://tprimages.blob.core.windows.net/public/4155/80f3a82e-f507-4806-b1d4-48a85cb19224.jpg",
+                    "copyright_holder": "Soupster Family / Nadia Heiniö",
+                    "license_type": {
+                        "id": 4,
+                        "name": "Copyright 1"
+                    },
+                    "media_id": "80f3a82e-f507-4806-b1d4-48a85cb19224"
+                },
+                {
+                    "url": "https://tprimages.blob.core.windows.net/public/4155/60c0e7f2-d1c1-4b19-abfc-69a7593de8ed.jpg",
+                    "copyright_holder": "Soupster Family / Nadia Heiniö",
+                    "license_type": {
+                        "id": 4,
+                        "name": "Copyright 1"
+                    },
+                    "media_id": "60c0e7f2-d1c1-4b19-abfc-69a7593de8ed"
+                }
+            ]
+        },
+        "tags": [{
+                "id": "main:577",
+                "name": "restaurants"
+            },
+            {
+                "id": "sub:218",
+                "name": "Viewpoint"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:4155/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "4224",
+        "name": {
+            "fi": "Luigi Pizzeria",
+            "en": "Luigi Pizzeria",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.luigipizzeria.fi/",
+        "modified_at": "2021-11-12T11:06:10.000Z",
+        "location": {
+            "lat": 60.180259704589844,
+            "lon": 24.949987411499023,
+            "address": {
+                "street_address": "Siltasaarenkatu 11",
+                "postal_code": "00530",
+                "locality": "Helsinki",
+                "neighbourhood": "Kallio"
+            }
+        },
+        "description": {
+            "intro": "Hakaniemessä, Ympyrätaloa vastapäätä sijaitseva Luigi Pizzeria tarjoilee mahdollisimman ekologisista, tuoreista raaka-aineista valmistettua lankkupizzaa.",
+            "body": "Hakaniemessä, Ympyrätaloa vastapäätä sijaitseva Luigi Pizzeria tarjoilee mahdollisimman ekologisista, tuoreista raaka-aineista valmistettua lankkupizzaa.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:577",
+                "name": "restaurants"
+            },
+            {
+                "id": "sub:186",
+                "name": "Pizza"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:4224/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "3049",
+        "name": {
+            "fi": "Mashiro Vallila",
+            "en": "Mashiro Vallila",
+            "sv": "Mashiro Vallila",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.mashiro.fi/",
+        "modified_at": "2021-11-12T11:08:21.000Z",
+        "location": {
+            "lat": 60.1937141418457,
+            "lon": 24.95798683166504,
+            "address": {
+                "street_address": "Mäkelänkatu 22",
+                "postal_code": "00510",
+                "locality": "Helsinki",
+                "neighbourhood": "Vallila"
+            }
+        },
+        "description": {
+            "intro": "Mashiro Vallilassa tarjoaa rakkaudella valmistettua, tuoretta, terveellistä ja kohtuuhintaista japanilaista ruokaa.",
+            "body": "Mashiro Vallilassa tarjoaa rakkaudella valmistettua, tuoretta, terveellistä ja kohtuuhintaista japanilaista ruokaa.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:577",
+                "name": "restaurants"
+            },
+            {
+                "id": "sub:80",
+                "name": "Asian"
+            },
+            {
+                "id": "sub:174",
+                "name": "Japanese"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:3049/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "10039",
+        "name": {
+            "fi": "Shinobi",
+            "en": "Shinobi",
+            "sv": "Shinobi",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.shinobi.fi/",
+        "modified_at": "2022-01-04T10:28:07.000Z",
+        "location": {
+            "lat": 60.16493606567383,
+            "lon": 24.931955337524414,
+            "address": {
+                "street_address": "Albertinkatu 38",
+                "postal_code": "00180",
+                "locality": "Helsinki",
+                "neighbourhood": "Kamppi"
+            }
+        },
+        "description": {
+            "intro": "Albertinkadulla sijaitsevassa Shinobi ravintolakokonaisuudessa, joka koostuu izakaya-tyylisestä Shinobista joka tarjoaa japanilaista sielunruokaa ja Ra-ryu baarista. ",
+            "body": "Albertinkadulla sijaitsevassa Shinobi ravintolakokonaisuudessa, joka koostuu izakaya-tyylisestä Shinobista joka tarjoaa japanilaista sielunruokaa ja Ra-ryu baarista. ",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:52",
+                "name": "Bar"
+            },
+            {
+                "id": "sub:175",
+                "name": "Street food"
+            },
+            {
+                "id": "main:577",
+                "name": "restaurants"
+            },
+            {
+                "id": "sub:174",
+                "name": "Japanese"
+            },
+            {
+                "id": "sub:188",
+                "name": "Food"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:10039/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "3269",
+        "name": {
+            "fi": "Lumoan Store",
+            "en": "Lumoan Store",
+            "sv": "Lumoan Store",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://kauppa.lumoan.fi/",
+        "modified_at": "2021-11-12T11:06:15.000Z",
+        "location": {
+            "lat": 60.16831588745117,
+            "lon": 24.95387840270996,
+            "address": {
+                "street_address": "Katariinankatu 1, sisäpiha",
+                "postal_code": "00170",
+                "locality": "Helsinki",
+                "neighbourhood": "Kruununhaka"
+            }
+        },
+        "description": {
+            "intro": "Suomalainen Lumoan suunnittelee vaatteita naisille sekä lapsille. Vaatteet yhdistävät pitsin tämän päivän modernin yksinkertaisiin linjoihin. Vaatteet käyvät arjen lisäksi juhlaan ja niitä on helppo yhdistellä eri tyyleihin. Lumoan valmistaa myös tekstikoruja jotka ovat uniikkeja ja ajattomia.",
+            "body": "Suomalainen Lumoan suunnittelee vaatteita naisille sekä lapsille. Vaatteet yhdistävät pitsin tämän päivän modernin yksinkertaisiin linjoihin. Vaatteet käyvät arjen lisäksi juhlaan ja niitä on helppo yhdistellä eri tyyleihin. Lumoan valmistaa myös tekstikoruja jotka ovat uniikkeja ja ajattomia.",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:42",
+                "name": "Finnish"
+            },
+            {
+                "id": "sub:72",
+                "name": "Jewllery"
+            },
+            {
+                "id": "main:490",
+                "name": "shopping"
+            },
+            {
+                "id": "sub:205",
+                "name": "Kids clothing"
+            },
+            {
+                "id": "sub:180",
+                "name": "Fashion"
+            },
+            {
+                "id": "sub:23",
+                "name": "Design"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:3269/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "1408",
+        "name": {
+            "fi": "Luxbag",
+            "en": "Luxbag",
+            "sv": "Luxbag",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.luxbag.fi/",
+        "modified_at": "2021-11-12T11:06:30.000Z",
+        "location": {
+            "lat": 60.167903900146484,
+            "lon": 24.948518753051758,
+            "address": {
+                "street_address": "Pohjoisesplanadi 25-27",
+                "postal_code": "00100",
+                "locality": "Helsinki",
+                "neighbourhood": "Kaartinkaupunki"
+            }
+        },
+        "description": {
+            "intro": "Kansainvälisiin luxusmerkkeihin erikoistunut liike jonka valikoimista löytyy muotia, laukkuja, kenkiä sekä asusteita seuraavilta muotitaloilta Gucci, Céline, Chloé,  Balenciaga, Givenchy, Fendi, Saint Laurent, Loewe ja Bottega Veneta.",
+            "body": "Kansainvälisiin luxusmerkkeihin erikoistunut liike jonka valikoimista löytyy muotia, laukkuja, kenkiä sekä asusteita seuraavilta muotitaloilta Gucci, Céline, Chloé,  Balenciaga, Givenchy, Fendi, Saint Laurent, Loewe ja Bottega Veneta.",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:66",
+                "name": "Shoes"
+            },
+            {
+                "id": "sub:258",
+                "name": "Bags"
+            },
+            {
+                "id": "main:490",
+                "name": "shopping"
+            },
+            {
+                "id": "sub:112",
+                "name": "Luxury"
+            },
+            {
+                "id": "sub:180",
+                "name": "Fashion"
+            },
+            {
+                "id": "sub:23",
+                "name": "Design"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:1408/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "1230",
+        "name": {
+            "fi": "Marttiini",
+            "en": "Marttiini",
+            "sv": "Marttiini",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.marttiini.fi/",
+        "modified_at": "2021-11-26T07:48:35.000Z",
+        "location": {
+            "lat": 60.1689338684082,
+            "lon": 24.951528549194336,
+            "address": {
+                "street_address": "Aleksanterinkatu 28",
+                "postal_code": "00170",
+                "locality": "Helsinki",
+                "neighbourhood": "Kruununhaka"
+            }
+        },
+        "description": {
+            "intro": "Marttiini on Suomen tunnetuin puukkovalmistaja. Sen tuotevalikoimaan kuuluu lukuisia erilaisia puukkoja ja veitsiä koti- ja ulkokäyttöön. Marttiinin tuotteissa perinteinen kotimainen puu, nahka sekä poronsarviluu kohtaavat modernit materiaalit. Marttiini tunnetaan korkeasta laadustaan ja sen puukot ovatkin suosittuja lahjaesineitä. \r\n\r\nMyymälässä saa halutessaan myös teräkaiverruksen puukkoihin. Kaiverrus tehdään odottaessa.",
+            "body": "Marttiini on Suomen tunnetuin puukkovalmistaja. Sen tuotevalikoimaan kuuluu lukuisia erilaisia puukkoja ja veitsiä koti- ja ulkokäyttöön. Marttiinin tuotteissa perinteinen kotimainen puu, nahka sekä poronsarviluu kohtaavat modernit materiaalit. Marttiini tunnetaan korkeasta laadustaan ja sen puukot ovatkin suosittuja lahjaesineitä. \r\n\r\nMyymälässä saa halutessaan myös teräkaiverruksen puukkoihin. Kaiverrus tehdään odottaessa.",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:42",
+                "name": "Finnish"
+            },
+            {
+                "id": "sub:71",
+                "name": "Souvenirs"
+            },
+            {
+                "id": "main:490",
+                "name": "shopping"
+            },
+            {
+                "id": "sub:307",
+                "name": "WeChat"
+            },
+            {
+                "id": "sub:23",
+                "name": "Design"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:1230/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "975",
+        "name": {
+            "fi": "Kauppakeskus Ruoholahti",
+            "en": "Shopping centre Ruoholahti",
+            "sv": "Köpcentret Ruoholahti",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://kauppakeskusruoholahti.fi/",
+        "modified_at": "2021-11-26T07:25:51.000Z",
+        "location": {
+            "lat": 60.163578033447266,
+            "lon": 24.910898208618164,
+            "address": {
+                "street_address": "Itämerenkatu 21",
+                "postal_code": "00180",
+                "locality": "Helsinki",
+                "neighbourhood": "Länsisatama"
+            }
+        },
+        "description": {
+            "intro": "Ruoholahden kauppakeskus tarjoaa reilun 20 yrityksen palvelut.  Kauppakeskuksen suurimpia toimijoita ovat K-Citymarket, K-Rauta, Jysk ja Tokmanni.",
+            "body": "Ruoholahden kauppakeskus tarjoaa reilun 20 yrityksen palvelut.  Kauppakeskuksen suurimpia toimijoita ovat K-Citymarket, K-Rauta, Jysk ja Tokmanni.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:490",
+                "name": "shopping"
+            },
+            {
+                "id": "sub:59",
+                "name": "Shopping centre"
+            },
+            {
+                "id": "sub:307",
+                "name": "WeChat"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:975/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "653",
+        "name": {
+            "fi": "A. Tillander",
+            "en": "A. Tillander",
+            "sv": "A. Tillander",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.alexandertillander.fi/",
+        "modified_at": "2021-11-12T10:13:28.000Z",
+        "location": {
+            "lat": 60.168922424316406,
+            "lon": 24.94364356994629,
+            "address": {
+                "street_address": "Aleksanterinkatu 17",
+                "postal_code": "00100",
+                "locality": "Helsinki",
+                "neighbourhood": "Kluuvi"
+            }
+        },
+        "description": {
+            "intro": "Jalokiviseppä ja ateljee, myös koruaiheisia näyttelyitä.",
+            "body": "Jalokiviseppä ja ateljee, myös koruaiheisia näyttelyitä.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:490",
+                "name": "shopping"
+            },
+            {
+                "id": "sub:72",
+                "name": "Jewllery"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:653/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "10029",
+        "name": {
+            "fi": "Cafe Metsäpaahtimo",
+            "en": "Cafe Metsäpaahtimo",
+            "sv": "Cafe Metsäpaahtimo",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://sampokone.fi/metsapaahtimo/",
+        "modified_at": "2022-01-12T06:48:36.000Z",
+        "location": {
+            "lat": 60.167476654052734,
+            "lon": 24.913469314575195,
+            "address": {
+                "street_address": "Lapinlahdenpolku 8",
+                "postal_code": "00180",
+                "locality": "Helsinki",
+                "neighbourhood": "Länsisatama"
+            }
+        },
+        "description": {
+            "intro": "Cafe Metsäpaahtimo on tunnelmallinen pieni kahvila Lapinlahden sairaala-alueella Fahlanderinpuistotiellä, joka tarjoaa mm. erilaisia kahveja, käsintehtyjä vegaanisia kasvisherkkuja ja aamiaissettejä.",
+            "body": "Cafe Metsäpaahtimo on tunnelmallinen pieni kahvila Fahlanderin puistotiellä, joka tarjoaa mm. erilaisia kahveja, käsintehtyjä vegaanisia kasvisherkkuja ja aamiaissettejä. ",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:239",
+                "name": "cafés"
+            },
+            {
+                "id": "sub:194",
+                "name": "Coffee"
+            },
+            {
+                "id": "sub:234",
+                "name": "Vegan"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:10029/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "3834",
+        "name": {
+            "fi": "Alakulttuurikeskus Loukko",
+            "en": "Alakulttuurikeskus Loukko",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.kulttuuriloukko.fi",
+        "modified_at": "2021-11-12T10:14:24.000Z",
+        "location": {
+            "lat": 60.18479919433594,
+            "lon": 24.946674346923828,
+            "address": {
+                "street_address": "Castreninkatu 7",
+                "postal_code": "00530",
+                "locality": "Helsinki",
+                "neighbourhood": "Kallio"
+            }
+        },
+        "description": {
+            "intro": "Alakulttuurikeskus Loukko on Kalliossa sijaitseva, turvallisemman tilan periaatteita noudattava kohtaamispaikka, jossa pyörii ostopakoton vegaaninen kahvila, matalan kynnyksen galleria, monenlaisia työpajoja, viikoittainen feministinen Joku Ompeluseura ja erilaisia esittävän taiteen tilaisuuksia.",
+            "body": "Alakulttuurikeskus Loukko on Kalliossa sijaitseva, turvallisemman tilan periaatteita noudattava kohtaamispaikka, jossa pyörii ostopakoton vegaaninen kahvila, matalan kynnyksen galleria, monenlaisia työpajoja, viikoittainen feministinen Joku Ompeluseura ja erilaisia esittävän taiteen tilaisuuksia.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:915",
+                "name": "galleries"
+            },
+            {
+                "id": "main:239",
+                "name": "cafés"
+            },
+            {
+                "id": "sub:296",
+                "name": "Culture centre"
+            },
+            {
+                "id": "sub:234",
+                "name": "Vegan"
+            },
+            {
+                "id": "main:868",
+                "name": "venues"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:3834/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "2431",
+        "name": {
+            "fi": "Alenius Sokerileipuri",
+            "en": "Sokerileipuri Alenius cake shop & cafe",
+            "sv": "Sokerileipuri Alenius Sockerbagare",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "http://www.sokerileipuri.fi/",
+        "modified_at": "2021-11-12T10:14:40.000Z",
+        "location": {
+            "lat": 60.156131744384766,
+            "lon": 24.949718475341797,
+            "address": {
+                "street_address": "Merikatu 1",
+                "postal_code": "00140",
+                "locality": "Helsinki",
+                "neighbourhood": "Ullanlinna"
+            }
+        },
+        "description": {
+            "intro": "Tunnelmallinen vanhan ajan kakkukahvila sijaitsee Helsingin eteläkärjessä. Sokerileipuri Alenius on erikoistunut täytekakkuihin ja käsintehtyihin suklaatryffeleihin, mutta tarjolla on myös pikkusuolaista ja erikoiskahveja. Salin puolella sekä ulkopöydissä voi nauttia merimaisemasta ja esim. paikan kuuluisasta banaani-suklaakakusta. Myymälästä saa tuotteita myös mukaan.",
+            "body": "Tunnelmallinen vanhan ajan kakkukahvila sijaitsee Helsingin eteläkärjessä. Sokerileipuri Alenius on erikoistunut täytekakkuihin ja käsintehtyihin suklaatryffeleihin, mutta tarjolla on myös pikkusuolaista ja erikoiskahveja. Salin puolella sekä ulkopöydissä voi nauttia merimaisemasta ja esim. paikan kuuluisasta banaani-suklaakakusta. Myymälästä saa tuotteita myös mukaan.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:490",
+                "name": "shopping"
+            },
+            {
+                "id": "main:239",
+                "name": "cafés"
+            },
+            {
+                "id": "sub:214",
+                "name": "Bakery"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:2431/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "3563",
+        "name": {
+            "fi": "Alenka Home Food",
+            "en": "Alenka Home Food",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://alenkahomefood.fi/",
+        "modified_at": "2021-11-12T10:14:42.000Z",
+        "location": {
+            "lat": 60.184356689453125,
+            "lon": 24.948223114013672,
+            "address": {
+                "street_address": "Läntien Papinkatu 2-4, LT4",
+                "postal_code": "00530",
+                "locality": "Helsinki",
+                "neighbourhood": "Kallio"
+            }
+        },
+        "description": {
+            "intro": "Alenka Home Food Cafe & Bakery Kalliossa tarjoaa paikanpäällä valmistettuja venäläis- ja amerikkalaisvaikutteisia herkkuja paikan päällä nautittavaksi tai ennakkoon tilattavaksi ja noudettavaksi. Runsas valikoima kotiruokaa ja leivonnaisia kotimaisista raaka-aineista.",
+            "body": "Alenka Home Food Cafe & Bakery Kalliossa tarjoaa paikanpäällä valmistettuja venäläis- ja amerikkalaisvaikutteisia herkkuja paikan päällä nautittavaksi tai ennakkoon tilattavaksi ja noudettavaksi. Runsas valikoima kotiruokaa ja leivonnaisia kotimaisista raaka-aineista.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:239",
+                "name": "cafés"
+            },
+            {
+                "id": "sub:196",
+                "name": "Russian"
+            },
+            {
+                "id": "sub:168",
+                "name": "Brunch"
+            },
+            {
+                "id": "sub:239",
+                "name": "Tea"
+            },
+            {
+                "id": "sub:198",
+                "name": "Wine"
+            },
+            {
+                "id": "sub:297",
+                "name": "Lunch"
+            },
+            {
+                "id": "sub:167",
+                "name": "Breakfast"
+            },
+            {
+                "id": "main:577",
+                "name": "restaurants"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:3563/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "189",
+        "name": {
+            "fi": "Korkeasaaren eläintarha",
+            "en": "Helsinki Zoo",
+            "sv": "Högholmens djurpark",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.korkeasaari.fi/",
+        "modified_at": "2021-11-12T10:59:06.000Z",
+        "location": {
+            "lat": 60.174774169921875,
+            "lon": 24.982995986938477,
+            "address": {
+                "street_address": "Mustikkamaanpolku 12",
+                "postal_code": "00570",
+                "locality": "Helsinki",
+                "neighbourhood": "Mustikkamaa-Korkeasaari"
+            }
+        },
+        "description": {
+            "intro": "Korkeasaari kuuluu maailman vanhimpiin eläintarhoihin. Se on perustettu vuonna 1889. Korkeasaaressa on eläimiä tundralta aina trooppisiin sademetsiin. Eläinlajeja on yli 150 ja saarella on lähemmäksi tuhat eri kasvilajia. Eläintarhan sydämenasiana on uhanalaisten lajien suojelu. Sarvikuonotunnus opastaa niiden eläinten luo, jotka kuuluvat eläintarhojen yhteisiin suojeluohjelmiin. Saarella myös matkamuistokauppa, ravintoloita ja kahviloita sekä mahdollisuus omien eväiden syöntiin sekä grillipaikka.",
+            "body": "Korkeasaari kuuluu maailman vanhimpiin eläintarhoihin. Se on perustettu vuonna 1889. Korkeasaaressa on eläimiä tundralta aina trooppisiin sademetsiin. Eläinlajeja on yli 150 ja saarella on lähemmäksi tuhat eri kasvilajia. Eläintarhan sydämenasiana on uhanalaisten lajien suojelu. Sarvikuonotunnus opastaa niiden eläinten luo, jotka kuuluvat eläintarhojen yhteisiin suojeluohjelmiin. Saarella myös matkamuistokauppa, ravintoloita ja kahviloita sekä mahdollisuus omien eväiden syöntiin sekä grillipaikka.",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:47",
+                "name": "Archipelago"
+            },
+            {
+                "id": "main:473",
+                "name": "sights"
+            },
+            {
+                "id": "sub:240",
+                "name": "Family"
+            },
+            {
+                "id": "main:326",
+                "name": "meeting places"
+            },
+            {
+                "id": "sub:88",
+                "name": "Animals"
+            },
+            {
+                "id": "sub:19",
+                "name": "Main attraction"
+            },
+            {
+                "id": "sub:181",
+                "name": "Sea"
+            },
+            {
+                "id": "main:916",
+                "name": "nature"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:189/opening_hours/?start_date=0w&end_date=0w"
+    }, {
+        "id": "2053",
+        "name": {
+            "fi": "CrossFit Central Helsinki",
+            "en": "CrossFit Central Helsinki",
+            "sv": "CrossFit Central Helsinki",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://crossfitcentralhelsinki.com/",
+        "modified_at": "2021-11-12T10:33:05.000Z",
+        "location": {
+            "lat": 60.16569900512695,
+            "lon": 24.903011322021484,
+            "address": {
+                "street_address": "Energiakatu 3, Salmisaaren Liikuntakeskus, 2.krs",
+                "postal_code": "00220",
+                "locality": "Helsinki",
+                "neighbourhood": "Länsisatama"
+            }
+        },
+        "description": {
+            "intro": "Helsingin vanhin CrossFit-sali.",
+            "body": "Helsingin vanhin CrossFit-sali.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:2053/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "2190",
+        "name": {
+            "fi": "Gymi Redi",
+            "en": "Gymi Redi",
+            "sv": "Gymi Redi",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://gymi.fi/",
+        "modified_at": "2021-11-12T10:42:14.000Z",
+        "location": {
+            "lat": 60.189884185791016,
+            "lon": 24.969520568847656,
+            "address": {
+                "street_address": "Hermannin rantatie 5, Kauppakeskus REDI, 4.krs",
+                "postal_code": "00580",
+                "locality": "Helsinki",
+                "neighbourhood": "Sörnäinen"
+            }
+        },
+        "description": {
+            "intro": "Gymi tarjoaa monipuolista ohjattua liikuntaa kaikenikäisille lapsille ja nuorille sekä aikuisille. \r\n \r\nGymi-tunneilla harrastetaan taaperojumppaa, temppurataa, telinevoimistelua, parkouria, sirkusta, joogaa, street workoutia ja akrobatiaa. Yli 7-vuotiaille on Gymi-tuntien lisäksi ns. lajitunteja eli mm. Gymi Parkour-, Gymi Gymnastics- (telinevoimistelua) ja Gymi Circus&Acro -tunteja.\r\n\r\nGymin tunneilla harjoitellaan motorisia taitoja ja kehitetään liikunnallisia ominaisuuksia, jotka luovat pohjaa aktiiviselle elämäntavalle.\r\n\r\nSäännöllisten viikkotuntien lisäksi Gymillä järjestetään koululaisten loma-aikojen leirejä, synttärijuhlia ja muita yksityistilaisuuksia sekä koko perheen tapahtumia.\r\n\r\nGymillä harjoittelu on hauskaa!",
+            "body": "Gymi tarjoaa monipuolista ohjattua liikuntaa kaikenikäisille lapsille ja nuorille sekä aikuisille. \r\n \r\nGymi-tunneilla harrastetaan taaperojumppaa, temppurataa, telinevoimistelua, parkouria, sirkusta, joogaa, street workoutia ja akrobatiaa. Yli 7-vuotiaille on Gymi-tuntien lisäksi ns. lajitunteja eli mm. Gymi Parkour-, Gymi Gymnastics- (telinevoimistelua) ja Gymi Circus&Acro -tunteja.\r\n\r\nGymin tunneilla harjoitellaan motorisia taitoja ja kehitetään liikunnallisia ominaisuuksia, jotka luovat pohjaa aktiiviselle elämäntavalle.\r\n\r\nSäännöllisten viikkotuntien lisäksi Gymillä järjestetään koululaisten loma-aikojen leirejä, synttärijuhlia ja muita yksityistilaisuuksia sekä koko perheen tapahtumia.\r\n\r\nGymillä harjoittelu on hauskaa!",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:271",
+                "name": "Playground"
+            },
+            {
+                "id": "sub:266",
+                "name": "Climbing"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            },
+            {
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:264",
+                "name": "Yoga"
+            },
+            {
+                "id": "sub:269",
+                "name": "Gymnastics"
+            },
+            {
+                "id": "main:918",
+                "name": "activity places"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:2190/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "2190",
+        "name": {
+            "fi": "Gymi Redi",
+            "en": "Gymi Redi",
+            "sv": "Gymi Redi",
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://gymi.fi/",
+        "modified_at": "2021-11-12T10:42:14.000Z",
+        "location": {
+            "lat": 60.189884185791016,
+            "lon": 24.969520568847656,
+            "address": {
+                "street_address": "Hermannin rantatie 5, Kauppakeskus REDI, 4.krs",
+                "postal_code": "00580",
+                "locality": "Helsinki",
+                "neighbourhood": "Sörnäinen"
+            }
+        },
+        "description": {
+            "intro": "Gymi tarjoaa monipuolista ohjattua liikuntaa kaikenikäisille lapsille ja nuorille sekä aikuisille. \r\n \r\nGymi-tunneilla harrastetaan taaperojumppaa, temppurataa, telinevoimistelua, parkouria, sirkusta, joogaa, street workoutia ja akrobatiaa. Yli 7-vuotiaille on Gymi-tuntien lisäksi ns. lajitunteja eli mm. Gymi Parkour-, Gymi Gymnastics- (telinevoimistelua) ja Gymi Circus&Acro -tunteja.\r\n\r\nGymin tunneilla harjoitellaan motorisia taitoja ja kehitetään liikunnallisia ominaisuuksia, jotka luovat pohjaa aktiiviselle elämäntavalle.\r\n\r\nSäännöllisten viikkotuntien lisäksi Gymillä järjestetään koululaisten loma-aikojen leirejä, synttärijuhlia ja muita yksityistilaisuuksia sekä koko perheen tapahtumia.\r\n\r\nGymillä harjoittelu on hauskaa!",
+            "body": "Gymi tarjoaa monipuolista ohjattua liikuntaa kaikenikäisille lapsille ja nuorille sekä aikuisille. \r\n \r\nGymi-tunneilla harrastetaan taaperojumppaa, temppurataa, telinevoimistelua, parkouria, sirkusta, joogaa, street workoutia ja akrobatiaa. Yli 7-vuotiaille on Gymi-tuntien lisäksi ns. lajitunteja eli mm. Gymi Parkour-, Gymi Gymnastics- (telinevoimistelua) ja Gymi Circus&Acro -tunteja.\r\n\r\nGymin tunneilla harjoitellaan motorisia taitoja ja kehitetään liikunnallisia ominaisuuksia, jotka luovat pohjaa aktiiviselle elämäntavalle.\r\n\r\nSäännöllisten viikkotuntien lisäksi Gymillä järjestetään koululaisten loma-aikojen leirejä, synttärijuhlia ja muita yksityistilaisuuksia sekä koko perheen tapahtumia.\r\n\r\nGymillä harjoittelu on hauskaa!",
+            "images": []
+        },
+        "tags": [{
+                "id": "sub:271",
+                "name": "Playground"
+            },
+            {
+                "id": "sub:266",
+                "name": "Climbing"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            },
+            {
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:264",
+                "name": "Yoga"
+            },
+            {
+                "id": "sub:269",
+                "name": "Gymnastics"
+            },
+            {
+                "id": "main:918",
+                "name": "activity places"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:2190/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "4145",
+        "name": {
+            "fi": "INNOSTA personal trainer",
+            "en": "INNOSTA personal trainer",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://innostapersonaltrainer.fi",
+        "modified_at": "2021-11-12T10:50:43.000Z",
+        "location": {
+            "lat": 60.18996810913086,
+            "lon": 25.012474060058594,
+            "address": {
+                "street_address": "Rantatöyry 1 b 15",
+                "postal_code": "00570",
+                "locality": "Helsinki",
+                "neighbourhood": "Kulosaari"
+            }
+        },
+        "description": {
+            "intro": "Personal trainer ja fysioterapeutti samassa paketissa. Innosta personal trainer vie asiakkaansa Helsingin kauneimmille ja parhaille treenipaikoille juosten, maastopyöräillen tai vaikka sauvakävellen.",
+            "body": "Personal trainer ja fysioterapeutti samassa paketissa. Innosta personal trainer vie asiakkaansa Helsingin kauneimmille ja parhaille treenipaikoille juosten, maastopyöräillen tai vaikka sauvakävellen.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:4145/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "4255",
+        "name": {
+            "fi": "Länsi-Herttoniemen kuntoportaat",
+            "en": "Länsi-Herttoniemi workout stairs",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://palvelukartta.hel.fi/fi/unit/57430",
+        "modified_at": "2021-11-12T11:06:38.000Z",
+        "location": {
+            "lat": 60.20414352416992,
+            "lon": 25.027231216430664,
+            "address": {
+                "street_address": "Majavatie 11",
+                "postal_code": "00800",
+                "locality": "Helsinki",
+                "neighbourhood": "Herttoniemi"
+            }
+        },
+        "description": {
+            "intro": "Länsi-Herttoniemen kuntoportaat, eli Majavatien portaat, Herttoniemessä ovat suosittu porrasjuoksu ja -kävelykohde Länsi-Herttoniemen ulkoilualueella.\r\n\r\nPortaiden yläpäästä on hieno näkymä yli Vanhankaupunginlahden. Ylhäällä on myös eväspaikka, jossa voi nauttia maisemista omia eväitään nauttien.",
+            "body": "Länsi-Herttoniemen kuntoportaat, eli Majavatien portaat, Herttoniemessä ovat suosittu porrasjuoksu ja -kävelykohde Länsi-Herttoniemen ulkoilualueella.\r\n\r\nPortaiden yläpäästä on hieno näkymä yli Vanhankaupunginlahden. Ylhäällä on myös eväspaikka, jossa voi nauttia maisemista omia eväitään nauttien.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            },
+            {
+                "id": "sub:157",
+                "name": "Running"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:4255/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "4084",
+        "name": {
+            "fi": "Muscle Piitsi",
+            "en": "Muscle Piitsi",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://jalkipoltto.com/musclepiitsi",
+        "modified_at": "2021-11-12T11:11:26.000Z",
+        "location": {
+            "lat": 60.20314025878906,
+            "lon": 25.1601505279541,
+            "address": {
+                "street_address": "Urheilukalastajankuja 1",
+                "postal_code": "00990",
+                "locality": "Helsinki",
+                "neighbourhood": "Vuosaari"
+            }
+        },
+        "description": {
+            "intro": "Muscle Piitsiltä löytyy kattavat liikuntapalvelut yksilöille, ryhmille ja yrityksille. Tarjolla on monipuolista ulkotreeniä voimaan ja kestävyyteen vuoden ympäri. Valmentajat ja liikunnanohjaajat luotsaavat kokeneesti niin vasta-alkajaa kuin kuntourheilijaa. \r\n\r\nLuonnon ääressä liikkumisen hyvinvointivaikutuksissa ei ole yliannostuksen vaaraa.",
+            "body": "Muscle Piitsiltä löytyy kattavat liikuntapalvelut yksilöille, ryhmille ja yrityksille. Tarjolla on monipuolista ulkotreeniä voimaan ja kestävyyteen vuoden ympäri. Valmentajat ja liikunnanohjaajat luotsaavat kokeneesti niin vasta-alkajaa kuin kuntourheilijaa. \r\n\r\nLuonnon ääressä liikkumisen hyvinvointivaikutuksissa ei ole yliannostuksen vaaraa.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:4084/opening_hours/?start_date=0w&end_date=0w"
+    },
+    {
+        "id": "4060",
+        "name": {
+            "fi": "North Engine CrossFit",
+            "en": "North Engine CrossFit",
+            "sv": null,
+            "zh": null
+        },
+        "source_type": {
+            "id": 2,
+            "name": "Matko"
+        },
+        "info_url": "https://www.northenginecrossfit.fi/",
+        "modified_at": "2021-11-12T11:13:43.000Z",
+        "location": {
+            "lat": 60.15786361694336,
+            "lon": 24.9345760345459,
+            "address": {
+                "street_address": "Tehtaankatu 27-29D",
+                "postal_code": "00150",
+                "locality": "Helsinki",
+                "neighbourhood": "Punavuori"
+            }
+        },
+        "description": {
+            "intro": "North Engine CrossFit on toiminnallisen harjoittelun CrossFit-sali Punavuoressa.",
+            "body": "North Engine CrossFit on toiminnallisen harjoittelun CrossFit-sali Punavuoressa.",
+            "images": []
+        },
+        "tags": [{
+                "id": "main:917",
+                "name": "sports"
+            },
+            {
+                "id": "sub:91",
+                "name": "Gym"
+            }
+        ],
+        "extra_searchwords": [],
+        "opening_hours_url": "https://hauki.api.hel.fi/v1/resource/tprek:4060/opening_hours/?start_date=0w&end_date=0w"
+    }
+]
